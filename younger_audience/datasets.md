@@ -20,10 +20,12 @@ Kaggle also had this competition for inspiration: https://www.kaggle.com/c/dog-b
 https://www.kaggle.com/techsash/waste-classification-data
 
 
-### Gender and ethnicity of job applicants 
+### Avengers
 
-Is the cross-entropy between the distribution of applicants to a given job by the listed social groups vs. the overall description meaningfully tied to the language of the postings? Is there enough data here to conclude either way?
-https://www.kaggle.com/claurin1/la-applicants-gender-and-ethnicity
+Contains the data behind the story Joining The Avengers Is As Deadly As Jumping Off A Four-Story Building.
+avengers.csv details the deaths of Marvel comic book characters between the time they joined the Avengers and April 30, 2015, the week before Secret Wars #1.
+
+https://github.com/fivethirtyeight/data/tree/master/avengers
 
 
 ### Chocolate bar rating
