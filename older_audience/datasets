@@ -1,0 +1,5 @@
+### Gender and ethnicity of job applicants 
+
+Is the cross-entropy between the distribution of applicants to a given job by the listed social groups vs. the overall description meaningfully tied to the language of the postings? Is there enough data here to conclude either way?
+https://www.kaggle.com/claurin1/la-applicants-gender-and-ethnicity
+
