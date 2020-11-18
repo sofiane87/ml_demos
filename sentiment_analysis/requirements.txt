@@ -3,5 +3,5 @@ tensorflow-datasets==1.2.0
 tensorflow-hub==0.6.0
 numpy==1.17.2
 ipywidgets==7.5.1
-notebook==6.0.1
+notebook==6.1.5
 scikit-learn==0.21.3
