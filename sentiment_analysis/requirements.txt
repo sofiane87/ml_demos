@@ -1,4 +1,4 @@
-tensorflow==2.0.0
+tensorflow==2.6.4
 tensorflow-datasets==1.2.0
 tensorflow-hub==0.6.0
 numpy==1.17.2
